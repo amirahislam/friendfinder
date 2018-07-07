@@ -1,7 +1,7 @@
 var friendsArray = [
     {
         "name":"Josh",
-        // "photo":"https://photos-3.dropbox.com/t/2/AAAggzIuqDrskXS6T4vbZWvn5JIQ9BU9yeB0alhS9Cx7Rg/12/32167328/jpeg/32x32/1/_/1/2/JoshHeahshot_AmirahIslam-2.jpg/EMbzrhgYidkDIAIoAg/c1YqNdP9xBDi78e1eFAyIh2BV_8KUoldHr4QKMiy3ks%2Cs8Yik_BFgaqHE5SlpEPk26T_ZYHtpiYjGHo0R8f0WWI%2CMqIzJNo9ngLKqqJqfK4_Sq6xdlzvANSidZe2s9hyw5I?size=2048x1536&size_mode=3",
+        "photo":"https://photos-2.dropbox.com/t/2/AAD3hGpu1RMXphCpVUr4-LO3IPBx1UNLk2TCRcP701jdJw/12/32167328/jpeg/32x32/1/_/1/9/JoshHeahshot_AmirahIslam-2.jpg/EMbzrhgYjdkDIAIoAg/BHWR4tbHl6hW-Nq1OWQTt5YjQ4_0bAnu3zk9i8sDnypVvz9issGCPwC0Yn8gVePotpRca5XOgIbQKr3newPjIYch9DXlwDdCgPml9MRPVhW81XyI3165bFFSisDN9NDBeWY?size=800x600&size_mode=3",
         "scores":[
             5,
             1,
@@ -17,7 +17,7 @@ var friendsArray = [
       },
       {
         "name":"Elvira",
-        // "photo":"https://photos-6.dropbox.com/t/2/AAD3Lnomu0bx19jqmjxPPzlqFHa9N11FqqkFnyINhp65VA/12/32167328/jpeg/32x32/1/_/1/9/ElviraHeahshot_AmirahIslam-3.jpg/EMbzrhgYidkDIAIoAg/BHN7ZWOiqRy8nxgOwOPEzaGxpL8BjrW7VqkfmCeR_kDzah1EPXWv429dWOtJcdsY1R8unr4o94sooWENt47j9HdwloTcafG9bRZTf2ooFFFM2qYCfsnZ-tKql4Nqlpd-3_0?size=2048x1536&size_mode=3",
+        "photo":"https://media.licdn.com/dms/image/C5103AQEEmIzp8GY9Ig/profile-displayphoto-shrink_800_800/0?e=1536192000&v=beta&t=o6G0kNVNDsgW_5Q8y5p8Jupaly5eiMkkcVxDKuD0fI4",
         "scores":[
             4,
             2,
